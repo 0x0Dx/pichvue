@@ -3,8 +3,6 @@ Pichu with Vue.js
 
 Alle rechten aan Github Copilot & Nintendo blablabla
 
-Pichvue: github.com/hansrijk/pichvue
-
 - Respawn timer moet willekeurig
 - Score bijhouden tijdens het spel
 - Scorebord toevoegen
