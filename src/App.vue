@@ -9,7 +9,7 @@ function handleClick() {
 
   // wait a random amount of seconds and make it re-appear
   var randomRespawnTime = Math.floor(Math.random() * maxRandomRespawnTime)
-  console.log(randomRespawnTime)
+  console.log("Pichu will re-appear in: " + randomRespawnTime + " seconds...")
   setTimeout(async () => {
     isVisible.value = true;
     
